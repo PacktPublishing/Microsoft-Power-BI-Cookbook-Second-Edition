@@ -1,6 +1,12 @@
 # Power BI Cookbook 2nd Edition
-<img src="PowerBICookbook2ndEditionCover.jpg" />
+[<img src="./.other/cover.png" width="248">](https://www.amazon.com/Microsoft-Power-Cookbook-expertise-hands/dp/1801813043/)
+
 Build effective analytical data models, reports, and dashboards using the advanced features of Power BI
+
+## Links
+
+* [Amazon](https://www.amazon.com/Microsoft-Power-Cookbook-expertise-hands/dp/1801813043/)
+* [Packt Publishing](https://www.packtpub.com/product/microsoft-power-bi-cookbook-second-edition/9781801813044)
 
 ## Key Features
 Updated with new recipes on query optimization, aggregation tables, Power BI API, and paginated reports
