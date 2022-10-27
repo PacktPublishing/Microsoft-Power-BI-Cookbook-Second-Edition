@@ -43,3 +43,7 @@ This book is for BI professionals who wish to enhance their knowledge of Power B
 1. Enhancing and Optimizing Existing Power BI Solutions
 1. Deploying and Distributing Power BI Content
 1. Integrating Power BI with Other Applications
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801813044">https://packt.link/free-ebook/9781801813044 </a> </p>
